@@ -242,11 +242,10 @@ The movie Wild Wild West had a budget of $170000000 making it have the highest b
 
 5. Is your favorite movie in the dataset? What other questions could you ask or answer using `filter()`, `select()`, and `arrange()`?
 
-```{r}
 
-```
+One of my favorite movies is unfortunately not on this list. One of my favorite movies is called Jujutsu Kaisen 0 it's a fantastic film. 
 
-
+You could use the "or" function and arrange by rating to ask certain questions. Using these codes we could compare movies like Harry Potter to Star Wars by filtering or selecting their ratings and votes.
 
 
 
